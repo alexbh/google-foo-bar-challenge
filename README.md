@@ -1,4 +1,4 @@
-Power Hungry Challenge
+Power Hungry Challenge Solved
 ============
 
 The Power Hungry challenge becomes difficult because its description is somewhat misleading.
