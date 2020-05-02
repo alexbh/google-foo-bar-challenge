@@ -1,3 +1,21 @@
+Power Hungry Challenge
+============
+
+The Power Hungry challenge becomes difficult because its description is somewhat misleading.
+In the description below, it is easy to think that you only need to obtain the maximum value of the panels in the array, regardless of the maintenance process described at the beginning of the case. 
+
+You can see people on the internet arguing about this challenge trying to figure out the value that should be returned to a specific panel, making it more of an interpretation challenge than a code challenge.
+
+But, isn't that what software development is all about?
+
+From my point of view, this description line is the one that confused the developers:
+
+"<i> You need to figure out which sets of panels in any given array you can take offline to repair while still maintaining the maximum amount of power output per array, <b>and to do THAT, you'll first need to figure out what the maximum output of each array actually is.</b> </i> "
+
+The goal of the challenge is not to find out what the maximum output of each matrix, but it is to find what is the maximum possible value, leaving at least one panel unused to be repaired, if posible.
+
+Here is the original description....
+
 Power Hungry
 ============
 
