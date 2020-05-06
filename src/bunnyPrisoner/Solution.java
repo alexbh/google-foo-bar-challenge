@@ -1,4 +1,4 @@
-package bunnyPrisioner;
+package bunnyPrisoner;
 
 public class Solution {
 

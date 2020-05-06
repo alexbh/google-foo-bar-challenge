@@ -1,9 +1,9 @@
-package bunnyPrisioner;
+package bunnyPrisoner;
 
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
-public class TestBunnyPrisioner {
+public class TestBunnyPrisoner {
 
     Solution a;
 
